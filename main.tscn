@@ -1,0 +1,18 @@
+[gd_scene format=3 uid="uid://bnomgrmeh3l7y"]
+
+[node name="Main" type="Node2D"]
+position = Vector2(84, 76)
+
+[node name="Play" type="Button" parent="."]
+offset_left = 261.0
+offset_top = 244.0
+offset_right = 563.0
+offset_bottom = 345.0
+text = "Play"
+
+[node name="Button2" type="Button" parent="."]
+offset_left = 226.0
+offset_top = 93.0
+offset_right = 528.0
+offset_bottom = 194.0
+text = "Play"
