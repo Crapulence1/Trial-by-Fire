@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://do2b3hrmpuf0m"
+path="res://.godot/imported/under the rainbow.ogg-bc7b7a7cf19136a01f4eee1ba3c62f81.oggvorbisstr"
+
+[deps]
+
+source_file="res://SunnyLand Artwork/Music tracks/under the rainbow.ogg"
+dest_files=["res://.godot/imported/under the rainbow.ogg-bc7b7a7cf19136a01f4eee1ba3c62f81.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
